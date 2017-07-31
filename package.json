@@ -1,0 +1,22 @@
+{
+  "name": "cloud_disk_icon",
+  "version": "0.0.1",
+  "description": "水务云文档图标",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eppluto/cloud_disk_icon.git"
+  },
+  "keywords": [
+    "云文档"
+  ],
+  "author": "EpPluto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eppluto/cloud_disk_icon/issues"
+  },
+  "homepage": "https://github.com/eppluto/cloud_disk_icon#readme"
+}
